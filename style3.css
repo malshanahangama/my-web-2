@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(194, 191, 240);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
+h1{
+    color: blue;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(232, 243, 234);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+}
+h1{
+    font-style: normal;
+    color: black;
+    text-align: center;
+}
+h4{
+    font-style: initial;
+    color: rgb(48, 15, 236);
+    padding: 5px;
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    padding: 20px;
+    margin: 5px;
+}
+p{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px;
+    padding: 5px;
+}
+.one{
+    text-align: justify;
+    background-color: rgb(202, 202, 226);
+    padding: 10px;
+    margin: 10px;
+}
